@@ -1,0 +1,6 @@
+[submodule "projects/consumers/humanzepola3000_service/humanzepola_backend"]
+	path = projects/consumers/humanzepola3000_service/humanzepola_backend
+	url = git@github.com:ubetterhollaatme/humanzepola_backend.git
+[submodule "projects/producers/maternity_hospital_service/maternity_hospital_backend"]
+	path = projects/producers/maternity_hospital_service/maternity_hospital_backend
+	url = git@github.com:ubetterhollaatme/maternity_hospital_backend.git
